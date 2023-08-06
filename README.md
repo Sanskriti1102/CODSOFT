@@ -1,6 +1,9 @@
 # CODSOFT Intern Projects
 
 ### 1. Python Programming Tasks:
+
+🔗https://github.com/Sanskriti1102/CODSOFT/tree/main/Python%20Programming%20Tasks
+
 #### Task 1: Password Generator
 
 1. **Objective:** Build a Password Generator application using Python.
