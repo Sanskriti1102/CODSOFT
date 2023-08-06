@@ -1,6 +1,6 @@
 # CODSOFT Intern Projects
 
-### 1. Python Programming Tasks:
+### 1. Python Programming Tasks :
 
 🔗https://github.com/Sanskriti1102/CODSOFT/tree/main/Python%20Programming%20Tasks
 
@@ -36,8 +36,9 @@
 
 These tasks collectively demonstrate practical Python programming skills and showcase the ability to build functional and user-friendly applications. The code for each task is well-structured, utilizing libraries and Python's built-in features effectively.
 
-### 2. Artificial Intelligence Tasks
- Absolutely, here are the descriptions for each task in the format you requested:
+### 2. Artificial Intelligence Tasks :
+
+🔗https://github.com/Sanskriti1102/CODSOFT/tree/main/Artificial%20Intelligence%20Tasks
 
 #### Task 1: Movie Recommendation System
 
