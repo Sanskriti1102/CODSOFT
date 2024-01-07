@@ -2,7 +2,7 @@
 
 ### 1. Python Programming Tasks :
 
-🔗https://github.com/Sanskriti1102/CODSOFT/tree/main/Python%20Programming%20Tasks
+🔗[Python Programming Tasks](https://github.com/Sanskriti1102/CODSOFT/tree/main/Python%20Programming%20Tasks)
 
 #### Task 1: Password Generator
 
@@ -38,7 +38,7 @@ These tasks collectively demonstrate practical Python programming skills and sho
 
 ### 2. Artificial Intelligence Tasks :
 
-🔗https://github.com/Sanskriti1102/CODSOFT/tree/main/Artificial%20Intelligence%20Tasks
+🔗[Artificial Intelligence Tasks](https://github.com/Sanskriti1102/CODSOFT/tree/main/Artificial%20Intelligence%20Tasks)
 
 #### Task 1: Movie Recommendation System
 
